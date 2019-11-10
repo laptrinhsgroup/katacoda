@@ -1,5 +1,5 @@
 **Requirements:**
-> Viết chương trình nhập nào số `n` và in ra mảng các số nguyên tố nhỏ hơn `n` theo thứ tự giảm dần.
+> Viết chương trình nhập nào số nguyên dương `n` và in ra mảng các số nguyên tố nhỏ hơn `n` theo thứ tự giảm dần.
 
 **Input:** n là số nguyên dương, n >= 2
 
