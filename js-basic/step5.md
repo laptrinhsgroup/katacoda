@@ -8,5 +8,5 @@
 
 ```bash
 Input: abcdef
-Output: `fed`abcdef
+Output: fedabcdef
 ```

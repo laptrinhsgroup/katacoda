@@ -9,7 +9,7 @@
 ```bash
 Input: 4, 10
 Output: 5
-# Các số nguyên tố trong khoảng 4 - 10 bao gồm: 5,7. 5 gần với 4 so với 7 với 10 nên kết quả in ra là 5
+# Các số nguyên tố trong khoảng 4 - 10 bao gồm: 5 và 7. 5 gần với 4 hơn so với 7 với 10 nên kết quả in ra là 5
 
 Input: 14, 16
 Output: not exist
