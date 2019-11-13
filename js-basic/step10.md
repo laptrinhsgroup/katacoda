@@ -9,10 +9,10 @@
 
 ```bash
 Input: 123
-# 123 -> 1+2+3 = 6 -> convert to single 1 time => 1
+# 123 -> 1+2+3 = 6 -> convert to single 1 time -> 1
 Output: 1
 
 Input: 156
-# 156 -> 1+5+6 = 12 => 1+2 = 3 -> convert to single 2 time => 2
+# 156 -> 1+5+6 = 12 -> 1+2 = 3 -> convert to single 2 time -> 2
 Output: 2
 ```
